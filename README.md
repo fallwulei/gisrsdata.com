@@ -2,7 +2,7 @@
 
 官方网址为: www.gisrsdata.com 
 
-该仓库为源代码文件，安装与启动教程如下：  
+该仓库为网址源代码文件，安装与启动教程如下：  
   
 （1）安装环境
 
@@ -15,7 +15,7 @@ yarn install
 （2）启动环境
 
 ```
-npm dev
+npm run dev
 # or
 yarn dev
 ```
@@ -28,7 +28,6 @@ npm build
 yarn build
 ```
 
-如果你也有志于维护这个开源项目，可以直接提交issue，
-建议添加我的微信： kitmyfacepleaseA  
-我拉你进开发者群
-![](http://pics.landcover100.com/pics/20222213/627d8c303968a.jpg)
+（4）本地运行依赖选择版本为node12
+
+（5）http://localhost:8080/
